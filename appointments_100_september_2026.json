@@ -1,0 +1,1002 @@
+[
+  {
+    "customer": "Christine Ramos",
+    "contact": "09171000000",
+    "date": "09/01/26",
+    "time": "10:00 AM",
+    "service": "Spa",
+    "staff": "Maria Santos",
+    "price": 800,
+    "status": "Booked"
+  },
+  {
+    "customer": "Luis Navarro",
+    "contact": "09171000001",
+    "date": "09/01/26",
+    "time": "11:00 AM",
+    "service": "Hair Color",
+    "staff": "Anna Cruz",
+    "price": 1200,
+    "status": "Booked"
+  },
+  {
+    "customer": "Mika Bautista",
+    "contact": "09171000002",
+    "date": "09/01/26",
+    "time": "12:00 PM",
+    "service": "Haircut",
+    "staff": "Jessica Garcia",
+    "price": 400,
+    "status": "Booked"
+  },
+  {
+    "customer": "Joshua Gonzales",
+    "contact": "09171000003",
+    "date": "09/01/26",
+    "time": "1:00 PM",
+    "service": "Rebond",
+    "staff": "Sofia Reyes",
+    "price": 1500,
+    "status": "Booked"
+  },
+  {
+    "customer": "Ella Morales",
+    "contact": "09171000004",
+    "date": "09/02/26",
+    "time": "11:00 AM",
+    "service": "Manicure",
+    "staff": "Angela Flores",
+    "price": 500,
+    "status": "Booked"
+  },
+  {
+    "customer": "Gabriel Santos",
+    "contact": "09171000005",
+    "date": "09/02/26",
+    "time": "12:00 PM",
+    "service": "Spa",
+    "staff": "Patricia Ramos",
+    "price": 800,
+    "status": "Booked"
+  },
+  {
+    "customer": "Juan Mendoza",
+    "contact": "09171000006",
+    "date": "09/02/26",
+    "time": "1:00 PM",
+    "service": "Hair Color",
+    "staff": "Catherine Lopez",
+    "price": 1200,
+    "status": "Booked"
+  },
+  {
+    "customer": "Maria Aquino",
+    "contact": "09171000007",
+    "date": "09/02/26",
+    "time": "2:00 PM",
+    "service": "Haircut",
+    "staff": "Isabella Torres",
+    "price": 400,
+    "status": "Booked"
+  },
+  {
+    "customer": "Ana Castillo",
+    "contact": "09171000008",
+    "date": "09/03/26",
+    "time": "12:00 PM",
+    "service": "Rebond",
+    "staff": "Michelle Aquino",
+    "price": 1500,
+    "status": "Booked"
+  },
+  {
+    "customer": "Sofia Villanueva",
+    "contact": "09171000009",
+    "date": "09/03/26",
+    "time": "1:00 PM",
+    "service": "Manicure",
+    "staff": "Rachel Mendoza",
+    "price": 500,
+    "status": "Booked"
+  },
+  {
+    "customer": "Daniel Pascual",
+    "contact": "09171000010",
+    "date": "09/03/26",
+    "time": "2:00 PM",
+    "service": "Spa",
+    "staff": "Maria Santos",
+    "price": 800,
+    "status": "Booked"
+  },
+  {
+    "customer": "Andrea Dela Cruz",
+    "contact": "09171000011",
+    "date": "09/03/26",
+    "time": "3:00 PM",
+    "service": "Hair Color",
+    "staff": "Anna Cruz",
+    "price": 1200,
+    "status": "Booked"
+  },
+  {
+    "customer": "Mark Reyes",
+    "contact": "09171000012",
+    "date": "09/04/26",
+    "time": "1:00 PM",
+    "service": "Haircut",
+    "staff": "Jessica Garcia",
+    "price": 400,
+    "status": "Booked"
+  },
+  {
+    "customer": "Nicole Flores",
+    "contact": "09171000013",
+    "date": "09/04/26",
+    "time": "2:00 PM",
+    "service": "Rebond",
+    "staff": "Sofia Reyes",
+    "price": 1500,
+    "status": "Booked"
+  },
+  {
+    "customer": "Carlo Torres",
+    "contact": "09171000014",
+    "date": "09/04/26",
+    "time": "3:00 PM",
+    "service": "Manicure",
+    "staff": "Angela Flores",
+    "price": 500,
+    "status": "Booked"
+  },
+  {
+    "customer": "Angela Rivera",
+    "contact": "09171000015",
+    "date": "09/04/26",
+    "time": "4:00 PM",
+    "service": "Spa",
+    "staff": "Patricia Ramos",
+    "price": 800,
+    "status": "Booked"
+  },
+  {
+    "customer": "Miguel Fernandez",
+    "contact": "09171000016",
+    "date": "09/05/26",
+    "time": "2:00 PM",
+    "service": "Hair Color",
+    "staff": "Catherine Lopez",
+    "price": 1200,
+    "status": "Booked"
+  },
+  {
+    "customer": "Grace Santiago",
+    "contact": "09171000017",
+    "date": "09/05/26",
+    "time": "3:00 PM",
+    "service": "Haircut",
+    "staff": "Isabella Torres",
+    "price": 400,
+    "status": "Booked"
+  },
+  {
+    "customer": "Paolo Garcia",
+    "contact": "09171000018",
+    "date": "09/05/26",
+    "time": "4:00 PM",
+    "service": "Rebond",
+    "staff": "Michelle Aquino",
+    "price": 1500,
+    "status": "Booked"
+  },
+  {
+    "customer": "Camille Cruz",
+    "contact": "09171000019",
+    "date": "09/05/26",
+    "time": "5:00 PM",
+    "service": "Manicure",
+    "staff": "Rachel Mendoza",
+    "price": 500,
+    "status": "Booked"
+  },
+  {
+    "customer": "John Ramos",
+    "contact": "09171000020",
+    "date": "09/06/26",
+    "time": "3:00 PM",
+    "service": "Spa",
+    "staff": "Maria Santos",
+    "price": 800,
+    "status": "Booked"
+  },
+  {
+    "customer": "Bea Navarro",
+    "contact": "09171000021",
+    "date": "09/06/26",
+    "time": "4:00 PM",
+    "service": "Hair Color",
+    "staff": "Anna Cruz",
+    "price": 1200,
+    "status": "Booked"
+  },
+  {
+    "customer": "Kevin Bautista",
+    "contact": "09171000022",
+    "date": "09/06/26",
+    "time": "5:00 PM",
+    "service": "Haircut",
+    "staff": "Jessica Garcia",
+    "price": 400,
+    "status": "Booked"
+  },
+  {
+    "customer": "Jasmine Gonzales",
+    "contact": "09171000023",
+    "date": "09/06/26",
+    "time": "6:00 PM",
+    "service": "Rebond",
+    "staff": "Sofia Reyes",
+    "price": 1500,
+    "status": "Booked"
+  },
+  {
+    "customer": "Ryan Morales",
+    "contact": "09171000024",
+    "date": "09/07/26",
+    "time": "4:00 PM",
+    "service": "Manicure",
+    "staff": "Angela Flores",
+    "price": 500,
+    "status": "Booked"
+  },
+  {
+    "customer": "Christine Santos",
+    "contact": "09171000025",
+    "date": "09/07/26",
+    "time": "5:00 PM",
+    "service": "Spa",
+    "staff": "Patricia Ramos",
+    "price": 800,
+    "status": "Booked"
+  },
+  {
+    "customer": "Luis Mendoza",
+    "contact": "09171000026",
+    "date": "09/07/26",
+    "time": "6:00 PM",
+    "service": "Hair Color",
+    "staff": "Catherine Lopez",
+    "price": 1200,
+    "status": "Booked"
+  },
+  {
+    "customer": "Mika Aquino",
+    "contact": "09171000027",
+    "date": "09/07/26",
+    "time": "9:00 AM",
+    "service": "Haircut",
+    "staff": "Isabella Torres",
+    "price": 400,
+    "status": "Booked"
+  },
+  {
+    "customer": "Joshua Castillo",
+    "contact": "09171000028",
+    "date": "09/08/26",
+    "time": "5:00 PM",
+    "service": "Rebond",
+    "staff": "Michelle Aquino",
+    "price": 1500,
+    "status": "Booked"
+  },
+  {
+    "customer": "Ella Reyes",
+    "contact": "09171000029",
+    "date": "09/08/26",
+    "time": "6:00 PM",
+    "service": "Manicure",
+    "staff": "Rachel Mendoza",
+    "price": 500,
+    "status": "Booked"
+  },
+  {
+    "customer": "Gabriel Flores",
+    "contact": "09171000030",
+    "date": "09/08/26",
+    "time": "9:00 AM",
+    "service": "Spa",
+    "staff": "Maria Santos",
+    "price": 800,
+    "status": "Booked"
+  },
+  {
+    "customer": "Juan Santos",
+    "contact": "09171000031",
+    "date": "09/08/26",
+    "time": "10:00 AM",
+    "service": "Hair Color",
+    "staff": "Anna Cruz",
+    "price": 1200,
+    "status": "Booked"
+  },
+  {
+    "customer": "Maria Cruz",
+    "contact": "09171000032",
+    "date": "09/09/26",
+    "time": "6:00 PM",
+    "service": "Haircut",
+    "staff": "Jessica Garcia",
+    "price": 400,
+    "status": "Booked"
+  },
+  {
+    "customer": "Ana Ramos",
+    "contact": "09171000033",
+    "date": "09/09/26",
+    "time": "9:00 AM",
+    "service": "Rebond",
+    "staff": "Sofia Reyes",
+    "price": 1500,
+    "status": "Booked"
+  },
+  {
+    "customer": "Sofia Garcia",
+    "contact": "09171000034",
+    "date": "09/09/26",
+    "time": "10:00 AM",
+    "service": "Manicure",
+    "staff": "Angela Flores",
+    "price": 500,
+    "status": "Booked"
+  },
+  {
+    "customer": "Daniel Mendoza",
+    "contact": "09171000035",
+    "date": "09/09/26",
+    "time": "11:00 AM",
+    "service": "Spa",
+    "staff": "Patricia Ramos",
+    "price": 800,
+    "status": "Booked"
+  },
+  {
+    "customer": "Andrea Santos",
+    "contact": "09171000036",
+    "date": "09/10/26",
+    "time": "9:00 AM",
+    "service": "Hair Color",
+    "staff": "Catherine Lopez",
+    "price": 1200,
+    "status": "Booked"
+  },
+  {
+    "customer": "Mark Aquino",
+    "contact": "09171000037",
+    "date": "09/10/26",
+    "time": "10:00 AM",
+    "service": "Haircut",
+    "staff": "Isabella Torres",
+    "price": 400,
+    "status": "Booked"
+  },
+  {
+    "customer": "Nicole Reyes",
+    "contact": "09171000038",
+    "date": "09/10/26",
+    "time": "11:00 AM",
+    "service": "Rebond",
+    "staff": "Michelle Aquino",
+    "price": 1500,
+    "status": "Booked"
+  },
+  {
+    "customer": "Carlo Flores",
+    "contact": "09171000039",
+    "date": "09/10/26",
+    "time": "12:00 PM",
+    "service": "Manicure",
+    "staff": "Rachel Mendoza",
+    "price": 500,
+    "status": "Booked"
+  },
+  {
+    "customer": "Angela Castillo",
+    "contact": "09171000040",
+    "date": "09/11/26",
+    "time": "10:00 AM",
+    "service": "Spa",
+    "staff": "Maria Santos",
+    "price": 800,
+    "status": "Booked"
+  },
+  {
+    "customer": "Miguel Cruz",
+    "contact": "09171000041",
+    "date": "09/11/26",
+    "time": "11:00 AM",
+    "service": "Hair Color",
+    "staff": "Anna Cruz",
+    "price": 1200,
+    "status": "Booked"
+  },
+  {
+    "customer": "Grace Navarro",
+    "contact": "09171000042",
+    "date": "09/11/26",
+    "time": "12:00 PM",
+    "service": "Haircut",
+    "staff": "Jessica Garcia",
+    "price": 400,
+    "status": "Booked"
+  },
+  {
+    "customer": "Paolo Ramos",
+    "contact": "09171000043",
+    "date": "09/12/26",
+    "time": "11:00 AM",
+    "service": "Rebond",
+    "staff": "Sofia Reyes",
+    "price": 1500,
+    "status": "Booked"
+  },
+  {
+    "customer": "Camille Santos",
+    "contact": "09171000044",
+    "date": "09/12/26",
+    "time": "12:00 PM",
+    "service": "Manicure",
+    "staff": "Angela Flores",
+    "price": 500,
+    "status": "Booked"
+  },
+  {
+    "customer": "John Mendoza",
+    "contact": "09171000045",
+    "date": "09/12/26",
+    "time": "1:00 PM",
+    "service": "Spa",
+    "staff": "Patricia Ramos",
+    "price": 800,
+    "status": "Booked"
+  },
+  {
+    "customer": "Bea Garcia",
+    "contact": "09171000046",
+    "date": "09/13/26",
+    "time": "12:00 PM",
+    "service": "Hair Color",
+    "staff": "Catherine Lopez",
+    "price": 1200,
+    "status": "Booked"
+  },
+  {
+    "customer": "Kevin Reyes",
+    "contact": "09171000047",
+    "date": "09/13/26",
+    "time": "1:00 PM",
+    "service": "Haircut",
+    "staff": "Isabella Torres",
+    "price": 400,
+    "status": "Booked"
+  },
+  {
+    "customer": "Jasmine Flores",
+    "contact": "09171000048",
+    "date": "09/13/26",
+    "time": "2:00 PM",
+    "service": "Rebond",
+    "staff": "Michelle Aquino",
+    "price": 1500,
+    "status": "Booked"
+  },
+  {
+    "customer": "Ryan Castillo",
+    "contact": "09171000049",
+    "date": "09/14/26",
+    "time": "1:00 PM",
+    "service": "Manicure",
+    "staff": "Rachel Mendoza",
+    "price": 500,
+    "status": "Booked"
+  },
+  {
+    "customer": "Lea Santos",
+    "contact": "09171000050",
+    "date": "09/14/26",
+    "time": "2:00 PM",
+    "service": "Spa",
+    "staff": "Maria Santos",
+    "price": 800,
+    "status": "Booked"
+  },
+  {
+    "customer": "Marco Cruz",
+    "contact": "09171000051",
+    "date": "09/14/26",
+    "time": "3:00 PM",
+    "service": "Hair Color",
+    "staff": "Anna Cruz",
+    "price": 1200,
+    "status": "Booked"
+  },
+  {
+    "customer": "Nina Ramos",
+    "contact": "09171000052",
+    "date": "09/15/26",
+    "time": "2:00 PM",
+    "service": "Haircut",
+    "staff": "Jessica Garcia",
+    "price": 400,
+    "status": "Booked"
+  },
+  {
+    "customer": "Paul Navarro",
+    "contact": "09171000053",
+    "date": "09/15/26",
+    "time": "3:00 PM",
+    "service": "Rebond",
+    "staff": "Sofia Reyes",
+    "price": 1500,
+    "status": "Booked"
+  },
+  {
+    "customer": "Chloe Garcia",
+    "contact": "09171000054",
+    "date": "09/15/26",
+    "time": "4:00 PM",
+    "service": "Manicure",
+    "staff": "Angela Flores",
+    "price": 500,
+    "status": "Booked"
+  },
+  {
+    "customer": "Eric Reyes",
+    "contact": "09171000055",
+    "date": "09/16/26",
+    "time": "3:00 PM",
+    "service": "Spa",
+    "staff": "Patricia Ramos",
+    "price": 800,
+    "status": "Booked"
+  },
+  {
+    "customer": "Hannah Flores",
+    "contact": "09171000056",
+    "date": "09/16/26",
+    "time": "4:00 PM",
+    "service": "Hair Color",
+    "staff": "Catherine Lopez",
+    "price": 1200,
+    "status": "Booked"
+  },
+  {
+    "customer": "Leo Mendoza",
+    "contact": "09171000057",
+    "date": "09/16/26",
+    "time": "5:00 PM",
+    "service": "Haircut",
+    "staff": "Isabella Torres",
+    "price": 400,
+    "status": "Booked"
+  },
+  {
+    "customer": "Mia Aquino",
+    "contact": "09171000058",
+    "date": "09/17/26",
+    "time": "4:00 PM",
+    "service": "Rebond",
+    "staff": "Michelle Aquino",
+    "price": 1500,
+    "status": "Booked"
+  },
+  {
+    "customer": "Noah Santos",
+    "contact": "09171000059",
+    "date": "09/17/26",
+    "time": "5:00 PM",
+    "service": "Manicure",
+    "staff": "Rachel Mendoza",
+    "price": 500,
+    "status": "Booked"
+  },
+  {
+    "customer": "Ava Cruz",
+    "contact": "09171000060",
+    "date": "09/17/26",
+    "time": "6:00 PM",
+    "service": "Spa",
+    "staff": "Maria Santos",
+    "price": 800,
+    "status": "Booked"
+  },
+  {
+    "customer": "Liam Ramos",
+    "contact": "09171000061",
+    "date": "09/18/26",
+    "time": "5:00 PM",
+    "service": "Hair Color",
+    "staff": "Anna Cruz",
+    "price": 1200,
+    "status": "Booked"
+  },
+  {
+    "customer": "Emma Navarro",
+    "contact": "09171000062",
+    "date": "09/18/26",
+    "time": "6:00 PM",
+    "service": "Haircut",
+    "staff": "Jessica Garcia",
+    "price": 400,
+    "status": "Booked"
+  },
+  {
+    "customer": "Ethan Garcia",
+    "contact": "09171000063",
+    "date": "09/18/26",
+    "time": "9:00 AM",
+    "service": "Rebond",
+    "staff": "Sofia Reyes",
+    "price": 1500,
+    "status": "Booked"
+  },
+  {
+    "customer": "Olivia Reyes",
+    "contact": "09171000064",
+    "date": "09/19/26",
+    "time": "6:00 PM",
+    "service": "Manicure",
+    "staff": "Angela Flores",
+    "price": 500,
+    "status": "Booked"
+  },
+  {
+    "customer": "Lucas Flores",
+    "contact": "09171000065",
+    "date": "09/19/26",
+    "time": "9:00 AM",
+    "service": "Spa",
+    "staff": "Patricia Ramos",
+    "price": 800,
+    "status": "Booked"
+  },
+  {
+    "customer": "Sophia Mendoza",
+    "contact": "09171000066",
+    "date": "09/19/26",
+    "time": "10:00 AM",
+    "service": "Hair Color",
+    "staff": "Catherine Lopez",
+    "price": 1200,
+    "status": "Booked"
+  },
+  {
+    "customer": "Mason Aquino",
+    "contact": "09171000067",
+    "date": "09/20/26",
+    "time": "9:00 AM",
+    "service": "Haircut",
+    "staff": "Isabella Torres",
+    "price": 400,
+    "status": "Booked"
+  },
+  {
+    "customer": "Isla Santos",
+    "contact": "09171000068",
+    "date": "09/20/26",
+    "time": "10:00 AM",
+    "service": "Rebond",
+    "staff": "Michelle Aquino",
+    "price": 1500,
+    "status": "Booked"
+  },
+  {
+    "customer": "James Cruz",
+    "contact": "09171000069",
+    "date": "09/20/26",
+    "time": "11:00 AM",
+    "service": "Manicure",
+    "staff": "Rachel Mendoza",
+    "price": 500,
+    "status": "Booked"
+  },
+  {
+    "customer": "Amelia Ramos",
+    "contact": "09171000070",
+    "date": "09/21/26",
+    "time": "10:00 AM",
+    "service": "Spa",
+    "staff": "Maria Santos",
+    "price": 800,
+    "status": "Booked"
+  },
+  {
+    "customer": "Henry Navarro",
+    "contact": "09171000071",
+    "date": "09/21/26",
+    "time": "11:00 AM",
+    "service": "Hair Color",
+    "staff": "Anna Cruz",
+    "price": 1200,
+    "status": "Booked"
+  },
+  {
+    "customer": "Charlotte Garcia",
+    "contact": "09171000072",
+    "date": "09/21/26",
+    "time": "12:00 PM",
+    "service": "Haircut",
+    "staff": "Jessica Garcia",
+    "price": 400,
+    "status": "Booked"
+  },
+  {
+    "customer": "Benjamin Reyes",
+    "contact": "09171000073",
+    "date": "09/22/26",
+    "time": "11:00 AM",
+    "service": "Rebond",
+    "staff": "Sofia Reyes",
+    "price": 1500,
+    "status": "Booked"
+  },
+  {
+    "customer": "Harper Flores",
+    "contact": "09171000074",
+    "date": "09/22/26",
+    "time": "12:00 PM",
+    "service": "Manicure",
+    "staff": "Angela Flores",
+    "price": 500,
+    "status": "Booked"
+  },
+  {
+    "customer": "Daniel Mendoza",
+    "contact": "09171000075",
+    "date": "09/22/26",
+    "time": "1:00 PM",
+    "service": "Spa",
+    "staff": "Patricia Ramos",
+    "price": 800,
+    "status": "Booked"
+  },
+  {
+    "customer": "Evelyn Aquino",
+    "contact": "09171000076",
+    "date": "09/23/26",
+    "time": "12:00 PM",
+    "service": "Hair Color",
+    "staff": "Catherine Lopez",
+    "price": 1200,
+    "status": "Booked"
+  },
+  {
+    "customer": "Michael Santos",
+    "contact": "09171000077",
+    "date": "09/23/26",
+    "time": "1:00 PM",
+    "service": "Haircut",
+    "staff": "Isabella Torres",
+    "price": 400,
+    "status": "Booked"
+  },
+  {
+    "customer": "Abigail Cruz",
+    "contact": "09171000078",
+    "date": "09/23/26",
+    "time": "2:00 PM",
+    "service": "Rebond",
+    "staff": "Michelle Aquino",
+    "price": 1500,
+    "status": "Booked"
+  },
+  {
+    "customer": "Alexander Ramos",
+    "contact": "09171000079",
+    "date": "09/24/26",
+    "time": "1:00 PM",
+    "service": "Manicure",
+    "staff": "Rachel Mendoza",
+    "price": 500,
+    "status": "Booked"
+  },
+  {
+    "customer": "Emily Navarro",
+    "contact": "09171000080",
+    "date": "09/24/26",
+    "time": "2:00 PM",
+    "service": "Spa",
+    "staff": "Maria Santos",
+    "price": 800,
+    "status": "Booked"
+  },
+  {
+    "customer": "William Garcia",
+    "contact": "09171000081",
+    "date": "09/24/26",
+    "time": "3:00 PM",
+    "service": "Hair Color",
+    "staff": "Anna Cruz",
+    "price": 1200,
+    "status": "Booked"
+  },
+  {
+    "customer": "Elizabeth Reyes",
+    "contact": "09171000082",
+    "date": "09/25/26",
+    "time": "2:00 PM",
+    "service": "Haircut",
+    "staff": "Jessica Garcia",
+    "price": 400,
+    "status": "Booked"
+  },
+  {
+    "customer": "Matthew Flores",
+    "contact": "09171000083",
+    "date": "09/25/26",
+    "time": "3:00 PM",
+    "service": "Rebond",
+    "staff": "Sofia Reyes",
+    "price": 1500,
+    "status": "Booked"
+  },
+  {
+    "customer": "Sofia Mendoza",
+    "contact": "09171000084",
+    "date": "09/25/26",
+    "time": "4:00 PM",
+    "service": "Manicure",
+    "staff": "Angela Flores",
+    "price": 500,
+    "status": "Booked"
+  },
+  {
+    "customer": "David Aquino",
+    "contact": "09171000085",
+    "date": "09/26/26",
+    "time": "3:00 PM",
+    "service": "Spa",
+    "staff": "Patricia Ramos",
+    "price": 800,
+    "status": "Booked"
+  },
+  {
+    "customer": "Avery Santos",
+    "contact": "09171000086",
+    "date": "09/26/26",
+    "time": "4:00 PM",
+    "service": "Hair Color",
+    "staff": "Catherine Lopez",
+    "price": 1200,
+    "status": "Booked"
+  },
+  {
+    "customer": "Joseph Cruz",
+    "contact": "09171000087",
+    "date": "09/26/26",
+    "time": "5:00 PM",
+    "service": "Haircut",
+    "staff": "Isabella Torres",
+    "price": 400,
+    "status": "Booked"
+  },
+  {
+    "customer": "Ella Ramos",
+    "contact": "09171000088",
+    "date": "09/27/26",
+    "time": "4:00 PM",
+    "service": "Rebond",
+    "staff": "Michelle Aquino",
+    "price": 1500,
+    "status": "Booked"
+  },
+  {
+    "customer": "Samuel Navarro",
+    "contact": "09171000089",
+    "date": "09/27/26",
+    "time": "5:00 PM",
+    "service": "Manicure",
+    "staff": "Rachel Mendoza",
+    "price": 500,
+    "status": "Booked"
+  },
+  {
+    "customer": "Scarlett Garcia",
+    "contact": "09171000090",
+    "date": "09/27/26",
+    "time": "6:00 PM",
+    "service": "Spa",
+    "staff": "Maria Santos",
+    "price": 800,
+    "status": "Booked"
+  },
+  {
+    "customer": "Jackson Reyes",
+    "contact": "09171000091",
+    "date": "09/28/26",
+    "time": "5:00 PM",
+    "service": "Hair Color",
+    "staff": "Anna Cruz",
+    "price": 1200,
+    "status": "Booked"
+  },
+  {
+    "customer": "Victoria Flores",
+    "contact": "09171000092",
+    "date": "09/28/26",
+    "time": "6:00 PM",
+    "service": "Haircut",
+    "staff": "Jessica Garcia",
+    "price": 400,
+    "status": "Booked"
+  },
+  {
+    "customer": "Sebastian Mendoza",
+    "contact": "09171000093",
+    "date": "09/28/26",
+    "time": "9:00 AM",
+    "service": "Rebond",
+    "staff": "Sofia Reyes",
+    "price": 1500,
+    "status": "Booked"
+  },
+  {
+    "customer": "Aria Aquino",
+    "contact": "09171000094",
+    "date": "09/29/26",
+    "time": "6:00 PM",
+    "service": "Manicure",
+    "staff": "Angela Flores",
+    "price": 500,
+    "status": "Booked"
+  },
+  {
+    "customer": "Mateo Santos",
+    "contact": "09171000095",
+    "date": "09/29/26",
+    "time": "9:00 AM",
+    "service": "Spa",
+    "staff": "Patricia Ramos",
+    "price": 800,
+    "status": "Booked"
+  },
+  {
+    "customer": "Luna Cruz",
+    "contact": "09171000096",
+    "date": "09/29/26",
+    "time": "10:00 AM",
+    "service": "Hair Color",
+    "staff": "Catherine Lopez",
+    "price": 1200,
+    "status": "Booked"
+  },
+  {
+    "customer": "Owen Ramos",
+    "contact": "09171000097",
+    "date": "09/30/26",
+    "time": "9:00 AM",
+    "service": "Haircut",
+    "staff": "Isabella Torres",
+    "price": 400,
+    "status": "Booked"
+  },
+  {
+    "customer": "Grace Navarro",
+    "contact": "09171000098",
+    "date": "09/30/26",
+    "time": "10:00 AM",
+    "service": "Rebond",
+    "staff": "Michelle Aquino",
+    "price": 1500,
+    "status": "Booked"
+  },
+  {
+    "customer": "Nathan Garcia",
+    "contact": "09171000099",
+    "date": "09/30/26",
+    "time": "11:00 AM",
+    "service": "Manicure",
+    "staff": "Rachel Mendoza",
+    "price": 500,
+    "status": "Booked"
+  }
+]
